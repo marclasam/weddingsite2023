@@ -1,0 +1,47 @@
+- name: Wedding Shower
+  date: TBA
+  time: TBA
+  attire: TBA
+  description: TBA
+  transportation: TBA
+  location:
+    address: TBA
+    city: TBA
+    state: TBA
+    long_state: TBA
+    zip: TBA
+    coordinates: TBA
+    google_maps_url: TBA
+    venue_name:
+
+- name: Wedding Ceremony
+  main_event: true
+  date: 2023-11-23 16:00:00 −04:00
+  endDate: 2023-11-23 21:00:00 -04:00
+  attire: Semi Formal
+  description: TO BE FILLED UP SOON
+  shuttle:
+  location:
+    address: 106 Sumulong Hwy,  
+    city: Antipolo
+    state: RZ
+    long_state: Rizal
+    zip: 1870
+    coordinates: 14.619681579121623, 121.14872834232698
+    google_maps_url: https://www.google.com/maps/place/San+Pedro+Calungsod+Parish/@14.6184358,121.1487498,15z/data=!4m6!3m5!1s0x3397b8dd687da045:0x9498561f5b04038f!8m2!3d14.6184358!4d121.1487498!16s%2Fg%2F11f3nh379x?entry=ttu
+    venue_name: San Pedro Calunsod Parish
+  calendar_description: We can't wait to see you on the day of the wedding. For any questions or issues, contact TBA.
+
+- name: Reception
+  date_alt: Immediately following the ceremony
+  attire: Semi Formal
+  description: TO BE FILLED UP SOON
+  location:
+    address: Cabrera Rd, Antipolo, Rizal
+    city: Antipolo
+    state: RZ
+    long_state: Rizal
+    zip: 1870
+    coordinates: 14.570481474953187, 121.1650602962886
+    google_maps_url: https://www.google.com/maps/place/The+Emerald+Events+Place/@14.5695677,121.1652105,15z/data=!4m14!1m7!3m6!1s0x3397c7fb8fce5735:0xc84901512d88bd1e!2sThe+Emerald+Events+Place!8m2!3d14.5695677!4d121.1652105!16s%2Fg%2F11fk4pkzsv!3m5!1s0x3397c7fb8fce5735:0xc84901512d88bd1e!8m2!3d14.5695677!4d121.1652105!16s%2Fg%2F11fk4pkzsv?entry=ttu
+    venue_name: The Emerald Events Place

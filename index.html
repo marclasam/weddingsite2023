@@ -1,0 +1,17 @@
+---
+# Under Construction
+layout: under_construction
+show_nav: true
+show_footer: false
+background: assets/img/flowers.jpg
+
+# Published
+layout: default
+include: our_story.html
+invisible_nav: false
+---
+
+
+{% if page.include %}
+  {% include {{ page.include }} %}
+{% endif %}

@@ -1,0 +1,132 @@
+families:
+  - pic: lasam.png
+    name: The Lasams
+    people: Marc, Jelynne, Von, Flordelis and Roberto
+  - pic: lims.png
+    name: The Lims
+    people: Tarah, Tess, Onyx, Tyrone, Curtis, Gloria and Oscar
+kids:
+  - pic: Aoife.png
+    name: Aoife Marceline L. Lasam
+    role: Flower Girl
+  - pic: Maggie.png
+    name: Miguelle Alexandria E. Ong
+    role: Flower Girl
+  - pic: Maia.png
+    name: Maia Sylvinna L. Lasam
+    role: Flower Girl
+  - pic: Mikay.png
+    name: Mikayla Grace L. Vega
+    role: Flower Girl
+  - pic: Jaiden.png
+    name: Jaiden Cade Z. Teodoro
+    role: Bible Bearer 
+  - pic: AK.png
+    name: Aleksandr Kai P. Vidallo
+    role: Coin Bearer
+  - pic: Tep.png
+    name: Stephen Yael M. Lim
+    role: Coin Bearer
+  - pic: tika.png
+    name: Tika L. Lasam
+    role: Best Boy
+    position: top
+her_side:
+  - name: Cheyenne Marie L. Cereno
+    pic: cheyenne.jpg
+    role: Maid of Honor
+    description: Tarah's Niece
+  - name: Venice Angeli M. Lim
+    pic: venice.jpg
+    role: Bridesmaid
+    description: Tarah's Niece
+  - name: Cherie Ann Bautista
+    pic: cherie.jpg
+    role: Bridesmaid
+    description: Tarah's College Friend
+  - name: Darlene Dancel
+    pic: darlene.jpg
+    role: Bridesmaid
+    description: Marc's College Friend
+  - name: Francise Dominique Panotes
+    pic: nikki.jpg
+    role: Bridesmaid
+    description: Marc's Childhood Friend
+  - name: Diwayen M. Lim
+    pic: diway.jpg
+    role: Bridesmaid
+    description: Tarah's Niece
+  - name: Giselle Sta. Maria
+    pic: gi.jpg
+    role: Bridesmaid
+    description: Marc's College Friend
+  - name: Xian Aerith L. Lasam
+    pic: xian.jpg
+    role: Bridesmaid
+    description: Tarah's Eldest Daughter
+  - name: Reevacris Jelynne L. Hernandez
+    pic: jelynne.jpg
+    role: Bridesmaid
+    description: Marc's Sister
+  - name: Lavinia Lyka L. Lopez
+    pic: lyka.jpg
+    role: Bridesmaid
+    description: Tarah's Cousin
+  - name: Verlie B. Hermoso
+    pic: verlie.jpg
+    role: Bridesmaid
+    description: Tarah's College Friend
+  - name: Althea Leanna Lasam
+    pic: althea.jpg
+    role: Bridesmaid
+    description: Marc's Niece
+his_side:
+  - name: Alexandrov Vidallo
+    pic: andrei.jpg
+    role: Best Man
+    description: Marc's College Friend
+  - name: Von Carlo D. Lasam
+    pic: von.jpg
+    role: Groomsman
+    description: Marc's Brother
+  - name: Ryan Christopher Paragua
+    pic: rc.jpg
+    role: Groomsman
+    description: Tarah's College Friend
+  - name: Irvin Teodoro
+    pic: irvin.jpg
+    role: Groomsman
+    description: Marc's Highschool Friend
+  - name: Timorthy James Fajota
+    pic: tim.jpg
+    role: Groomsman
+    description: Marc's College Friend
+  - name: Diego Israel Villanueva
+    pic: diego.jpg
+    role: Groomsman
+    description: Marc's College Friend
+  - name: Michael Cedrick Ong
+    pic: ced.jpg
+    role: Groomsman
+    description: Marc's Highschool Friend
+  - name: Daryl James De Castro
+    pic: daryl.jpg
+    role: Groomsman
+    description: Marc's College Friend
+  - name: Kevin Claro
+    pic: kevin.jpg
+    role: Groomsman
+    description: Marc's College Friend
+  - name: Von Albert Salon
+    pic: Von.jpg
+    role: Groomsman
+    description: Marc's Highschool Friend
+  - name: Marvin Hermoso
+    pic: marvni.jpg
+    role: Groomsman
+    description: Tarah's College Friend
+  - name: Geri Sedeno
+    pic: geri.jpg
+    role: Groomsman
+    description: Tarah's College Friend
+
