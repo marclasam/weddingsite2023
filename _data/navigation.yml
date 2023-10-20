@@ -10,8 +10,10 @@
   link: /photo-gallery
 - name: FAQ
   link: /faq
+- name: Save The Date
+  link: /sde
 #- name: City Guide
-#  link: /guide
+ # link: /guide
 #- name: Registry
 #  link: /registry
 #- name: RSVP
