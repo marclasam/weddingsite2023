@@ -1,10 +1,10 @@
 families:
   - pic: lasam.png
     name: The Lasams
-    people: Marc, Jelynne, Von, Flordelis and Roberto
+    people: Von, Flordelis, Marc, Jelynne and Roberto
   - pic: lims.png
     name: The Lims
-    people: Tarah, Tess, Onyx, Tyrone, Curtis, Gloria and Oscar
+    people: Curtis, Tess, Onyx, Gloria, Tyrone, Oscar and Tarah
 kids:
   - pic: Aoife.png
     name: Aoife Marceline L. Lasam
@@ -33,100 +33,120 @@ kids:
     position: top
 her_side:
   - name: Cheyenne Marie L. Cereno
-    pic: cheyenne.jpg
+    pic: Cheyenne.png
     role: Maid of Honor
     description: Tarah's Niece
-  - name: Venice Angeli M. Lim
-    pic: venice.jpg
-    role: Bridesmaid
+  - name: Joana Nympha Obsequio
+    pic: Joana.png
+    role: Candle
+    description: Friend
+  - name: Caira L. Cereno
+    pic: Caira.png
+    role: Veil
+    description: Tarah's Niece
+  - name: Mica Angela M. Lim
+    pic: Mica.png
+    role: Cord
     description: Tarah's Niece
   - name: Cherie Ann Bautista
-    pic: cherie.jpg
+    pic: Cherie.png
     role: Bridesmaid
     description: Tarah's College Friend
   - name: Darlene Dancel
-    pic: darlene.jpg
+    pic: Darlene.png
     role: Bridesmaid
     description: Marc's College Friend
   - name: Francise Dominique Panotes
-    pic: nikki.jpg
+    pic: Nikki.png
     role: Bridesmaid
     description: Marc's Childhood Friend
   - name: Diwayen M. Lim
-    pic: diway.jpg
+    pic: Diway.png
     role: Bridesmaid
     description: Tarah's Niece
   - name: Giselle Sta. Maria
-    pic: gi.jpg
+    pic: Gi.png
     role: Bridesmaid
     description: Marc's College Friend
   - name: Xian Aerith L. Lasam
-    pic: xian.jpg
+    pic: Xian.png
     role: Bridesmaid
     description: Tarah's Eldest Daughter
   - name: Reevacris Jelynne L. Hernandez
-    pic: jelynne.jpg
+    pic: Jelynne.png
     role: Bridesmaid
     description: Marc's Sister
   - name: Lavinia Lyka L. Lopez
-    pic: lyka.jpg
+    pic: Lyka.png
     role: Bridesmaid
     description: Tarah's Cousin
   - name: Verlie B. Hermoso
-    pic: verlie.jpg
+    pic: Verlie.png
     role: Bridesmaid
     description: Tarah's College Friend
   - name: Althea Leanna Lasam
-    pic: althea.jpg
+    pic: Althea.png
     role: Bridesmaid
     description: Marc's Niece
 his_side:
-  - name: Alexandrov Vidallo
-    pic: andrei.jpg
+  - name: Andrei Alexandrov Vidallo
+    pic: Andrei.png
     role: Best Man
     description: Marc's College Friend
-  - name: Von Carlo D. Lasam
-    pic: von.jpg
-    role: Groomsman
-    description: Marc's Brother
-  - name: Ryan Christopher Paragua
-    pic: rc.jpg
+  - name: James Benjamin Obsequio
+    pic: Benjo.png
+    role: Candle
+    description: Marc's College Friend
+  - name: Juffy Byroon Vega
+    pic: Juffy.png
+    role: Veil
+    description: Marc's College Friend
+  - name: John Ronald Coreses
+    pic: Ron.png
+    role: Cord
+    description: Marc's Friend
+  - name: Ryan Christoffer Paragua
+    pic: RC.png
     role: Groomsman
     description: Tarah's College Friend
   - name: Irvin Teodoro
-    pic: irvin.jpg
+    pic: Irvin.png
     role: Groomsman
     description: Marc's Highschool Friend
-  - name: Timorthy James Fajota
-    pic: tim.jpg
+  - name: Timorthy Joseph Fajota
+    pic: Tim.png
     role: Groomsman
     description: Marc's College Friend
   - name: Diego Israel Villanueva
-    pic: diego.jpg
+    pic: Diego.png
     role: Groomsman
     description: Marc's College Friend
-  - name: Michael Cedrick Ong
-    pic: ced.jpg
+  - name: Michael Cedrik Ong
+    pic: Ced.png
     role: Groomsman
     description: Marc's Highschool Friend
   - name: Daryl James De Castro
-    pic: daryl.jpg
+    pic: Daryl.png
     role: Groomsman
     description: Marc's College Friend
   - name: Kevin Claro
-    pic: kevin.jpg
+    pic: Kevin.png
     role: Groomsman
     description: Marc's College Friend
   - name: Von Albert Salon
-    pic: Von.jpg
+    pic: Vonny.png
     role: Groomsman
     description: Marc's Highschool Friend
   - name: Marvin Hermoso
-    pic: marvni.jpg
+    pic: Marvin.png
     role: Groomsman
     description: Tarah's College Friend
   - name: Geri Sedeno
-    pic: geri.jpg
+    pic: Geri.png
     role: Groomsman
     description: Tarah's College Friend
+  - name: Sami Alhamada
+    pic: Sami.png
+    role: Groomsman
+    description: Marc's Office Friend
 
