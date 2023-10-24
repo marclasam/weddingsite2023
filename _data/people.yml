@@ -4,7 +4,7 @@ families:
     people: Von, Flordelis, Marc, Jelynne and Roberto
   - pic: lims.png
     name: The Lims
-    people: Curtis, Tess, Onyx, Gloria, Tyrone, Oscar and Tarah
+    people: Curtiss, Tess, Onyx, Gloria, Tyrone, Oscar and Tarah
 kids:
   - pic: Aoife.png
     name: Aoife Marceline L. Lasam
@@ -27,10 +27,8 @@ kids:
   - pic: Tep.png
     name: Stephen Yael M. Lim
     role: Coin Bearer
-  - pic: tika.png
-    name: Tika L. Lasam
-    role: Best Boy
-    position: top
+
+
 her_side:
   - name: Cheyenne Marie L. Cereno
     pic: Cheyenne.png
@@ -50,6 +48,10 @@ her_side:
     description: Tarah's Niece
   - name: Cherie Ann Bautista
     pic: Cherie.png
+    role: Bridesmaid
+    description: Tarah's College Friend
+  - name: Venice Angeli M. Lim
+    pic: Venice.png
     role: Bridesmaid
     description: Tarah's College Friend
   - name: Darlene Dancel
@@ -81,13 +83,16 @@ her_side:
     role: Bridesmaid
     description: Tarah's Cousin
   - name: Verlie B. Hermoso
-    pic: Verlie.png
+    pic: Vea.png
     role: Bridesmaid
     description: Tarah's College Friend
   - name: Althea Leanna Lasam
     pic: Althea.png
     role: Bridesmaid
     description: Marc's Niece
+  - pic: Tika.png
+    name: Tika L. Lasam
+    role: Best Boy
 his_side:
   - name: Andrei Alexandrov Vidallo
     pic: Andrei.png
@@ -109,6 +114,10 @@ his_side:
     pic: RC.png
     role: Groomsman
     description: Tarah's College Friend
+  - name: Von Carlo D. Lasam
+    pic: Von.png
+    role: Groomsman
+    description: Marc's Brother
   - name: Irvin Teodoro
     pic: Irvin.png
     role: Groomsman
