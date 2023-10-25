@@ -1,19 +1,21 @@
 - name: Our Story
   link: /#ourstory
-- name: Celebrations
-  link: /celebrations
+#- name: Celebrations
+#  link: /celebrations
 - name: People
   link: /people
 #- name: Details
 #  link: /details
 - name: Photos
   link: /photo-gallery
-- name: FAQ
-  link: /faq
+#- name: FAQ
+#  link: /faq
 - name: Save The Date
   link: /sde
+- name: FAQ
+  link: /whattowear  
 #- name: City Guide
- # link: /guide
+#  link: /guide
 #- name: Registry
 #  link: /registry
 #- name: RSVP
