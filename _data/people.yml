@@ -92,6 +92,10 @@ her_side:
     pic: Althea.png
     role: Bridesmaid
     description: Marc's Niece
+  - name: Sami Alhamada
+    pic: Sami.png
+    role: Groomsman
+    description: Marc's Office Friend
 
 his_side:
   - name: Andrei Alexandrov Vidallo
@@ -154,7 +158,3 @@ his_side:
     pic: Geri.png
     role: Groomsman
     description: Tarah's College Friend
-#  - name: Sami Alhamada
-#    pic: Sami.png
-#    role: Groomsman
-#    description: Marc's Office Friend
