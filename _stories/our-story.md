@@ -13,4 +13,4 @@ In just one month, they realized they wanted to spend their lives together, sett
 
 Their love journey led them to cohabitate in April 2019. Fast forward to 2021, they welcomed a beautiful baby into their lives, and in March 2023, they took the next step and got engaged.
 
-To all those who have witnessed their love story, we are grateful to have you by our side, supporting us then, now, and forever. - Tawwy and Marc ❤"
+For all those who have been part of our journey of love, we extend our heartfelt gratitude for standing by our side, supporting us in the past, the present, and for all eternity. - Tawwy and Marc ❤

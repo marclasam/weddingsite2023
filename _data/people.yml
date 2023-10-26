@@ -27,7 +27,9 @@ kids:
   - pic: Tep.png
     name: Stephen Yael M. Lim
     role: Coin Bearer
-
+  - pic: Tika.png
+    name: Tika L. Lasam
+    role: Best Boy
     
 her_side:
   - name: Cheyenne Marie L. Cereno
@@ -90,9 +92,7 @@ her_side:
     pic: Althea.png
     role: Bridesmaid
     description: Marc's Niece
-  - pic: Tika.png
-    name: Tika L. Lasam
-    role: Best Boy
+
 his_side:
   - name: Andrei Alexandrov Vidallo
     pic: Andrei.png
@@ -154,7 +154,7 @@ his_side:
     pic: Geri.png
     role: Groomsman
     description: Tarah's College Friend
-  - name: Sami Alhamada
-    pic: Sami.png
-    role: Groomsman
-    description: Marc's Office Friend
+#  - name: Sami Alhamada
+#    pic: Sami.png
+#    role: Groomsman
+#    description: Marc's Office Friend

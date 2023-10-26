@@ -1,6 +1,6 @@
 ---
 order: 2
-image: assets/img/chairs.jpg
+image: assets/img/proposal_pics.png
 image_position: bottom
 ---
 ### Our Future
